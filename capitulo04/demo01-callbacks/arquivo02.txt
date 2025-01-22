@@ -1,0 +1,3 @@
+No entanto, aprender a programar não é apenas sobre dominar sintaxes e frameworks; é também sobre adotar uma mentalidade lógica e analítica.
+A resolução de problemas é uma habilidade indispensável para qualquer desenvolvedor, pois envolve a decomposição de questões complexas em partes menores e gerenciáveis.
+Além disso, a colaboração em equipes multidisciplinares reforça a importância de habilidades interpessoais, já que projetos modernos muitas vezes exigem esforços conjuntos de profissionais de diferentes áreas.
